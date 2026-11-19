@@ -4,8 +4,8 @@
 
 body {
   margin: 0;
-  background: #947706;
-  color: #222;
+  background: #04b901;
+  color: #000000;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -45,7 +45,7 @@ h2 {
 
 .content > p {
   margin: 0;
-  color: #999;
+  color: #000000;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -62,7 +62,7 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #aaa;
+  color: #000000;
 }
 
 #interests ul {
@@ -75,7 +75,7 @@ h2 {
 }
 
 #interests li {
-  color: #555;
+  color: #000000;
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
